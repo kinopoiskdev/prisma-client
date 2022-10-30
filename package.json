@@ -1,7 +1,25 @@
 {
-  "version": "1.0.3",
-  "name": "@kinopoiskdev/prisma",
+  "version": "1.0.4",
+  "name": "@kinopoiskdev/prisma-client",
   "main": "index.js",
   "types": "index.d.ts",
-  "browser": "index-browser.js"
+  "browser": "index-browser.js",
+  "dependencies": {
+    "prisma": "^4.5.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kinopoiskdev/prisma-client.git"
+  },
+  "author": "mdwitr0",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kinopoiskdev/prisma-client/issues"
+  },
+  "homepage": "https://github.com/kinopoiskdev/prisma-client#readme",
+  "description": ""
 }
