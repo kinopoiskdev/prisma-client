@@ -1,5 +1,5 @@
 {
-  "version": "1.0.2",
+  "version": "1.0.3",
   "name": "@kinopoiskdev/prisma",
   "main": "index.js",
   "types": "index.d.ts",
